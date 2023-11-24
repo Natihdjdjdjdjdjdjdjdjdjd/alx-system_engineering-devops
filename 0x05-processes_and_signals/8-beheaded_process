@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# the function that keep the process at 7-highlander
+
+pkill -f -SIGKILL 7-highlander
