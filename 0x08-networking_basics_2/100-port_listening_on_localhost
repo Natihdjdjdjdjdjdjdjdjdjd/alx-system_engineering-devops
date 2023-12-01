@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# the function that listens on port 98 on localhost.
+nc -l 98
