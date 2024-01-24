@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#  letbuse ssh to use and connet a server
+
+ssh ubuntu -i ~/.ssh/school
