@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
 # let genreate bash  toa ssh key
 
-# ssh-keygen -t rsa -b 4096 -p betty -f school
-
-ssh-keygen -b 4096 -f school -N betty
+ssh-keygen -t rsa -b 4096 -p betty -f school
